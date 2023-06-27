@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "CWKSocial.Domain/1.0.0": {
+        "runtime": {
+          "CWKSocial.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CWKSocial.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
