@@ -1,0 +1,12 @@
+C:\Users\sxk2502\source\repos\CodeWrinkles\CodeWrinklesSocial\CWKSocial.Dal\bin\Debug\net7.0\CWKSocial.Dal.deps.json
+C:\Users\sxk2502\source\repos\CodeWrinkles\CodeWrinklesSocial\CWKSocial.Dal\bin\Debug\net7.0\CWKSocial.Dal.dll
+C:\Users\sxk2502\source\repos\CodeWrinkles\CodeWrinklesSocial\CWKSocial.Dal\bin\Debug\net7.0\CWKSocial.Dal.pdb
+C:\Users\sxk2502\source\repos\CodeWrinkles\CodeWrinklesSocial\CWKSocial.Dal\obj\Debug\net7.0\CWKSocial.Dal.csproj.AssemblyReference.cache
+C:\Users\sxk2502\source\repos\CodeWrinkles\CodeWrinklesSocial\CWKSocial.Dal\obj\Debug\net7.0\CWKSocial.Dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sxk2502\source\repos\CodeWrinkles\CodeWrinklesSocial\CWKSocial.Dal\obj\Debug\net7.0\CWKSocial.Dal.AssemblyInfoInputs.cache
+C:\Users\sxk2502\source\repos\CodeWrinkles\CodeWrinklesSocial\CWKSocial.Dal\obj\Debug\net7.0\CWKSocial.Dal.AssemblyInfo.cs
+C:\Users\sxk2502\source\repos\CodeWrinkles\CodeWrinklesSocial\CWKSocial.Dal\obj\Debug\net7.0\CWKSocial.Dal.csproj.CoreCompileInputs.cache
+C:\Users\sxk2502\source\repos\CodeWrinkles\CodeWrinklesSocial\CWKSocial.Dal\obj\Debug\net7.0\CWKSocial.Dal.dll
+C:\Users\sxk2502\source\repos\CodeWrinkles\CodeWrinklesSocial\CWKSocial.Dal\obj\Debug\net7.0\refint\CWKSocial.Dal.dll
+C:\Users\sxk2502\source\repos\CodeWrinkles\CodeWrinklesSocial\CWKSocial.Dal\obj\Debug\net7.0\CWKSocial.Dal.pdb
+C:\Users\sxk2502\source\repos\CodeWrinkles\CodeWrinklesSocial\CWKSocial.Dal\obj\Debug\net7.0\ref\CWKSocial.Dal.dll

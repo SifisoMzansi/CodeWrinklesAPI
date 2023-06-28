@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "/fNBUQEPZ5PZjkDYV8+QP63hsm6veUJAlTJg6Q1gBda5za827ssBWGT7pwDj6bkkFHE65KEubN1eAbNWDNvoUQ==",
+  "dgSpecHash": "oXi4zWV2B3lYVkMKX5XLrj4Y1ndzMf9dkck3gP1S0w3l/RG8LGeIe3c5j8XSuVulEH5tXmRG0TPvbEu0eWsM1w==",
   "success": true,
   "projectFilePath": "C:\\Users\\sxk2502\\source\\repos\\CodeWrinkles\\CodeWrinklesSocial\\CodeWrinklesSocial.Api\\CodeWrinklesSocial.Api.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\sxk2502\\.nuget\\packages\\microsoft.aspnetcore.mvc.versioning\\5.1.0\\microsoft.aspnetcore.mvc.versioning.5.1.0.nupkg.sha512",
+    "C:\\Users\\sxk2502\\.nuget\\packages\\microsoft.aspnetcore.mvc.versioning.apiexplorer\\5.1.0\\microsoft.aspnetcore.mvc.versioning.apiexplorer.5.1.0.nupkg.sha512",
     "C:\\Users\\sxk2502\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.7\\microsoft.aspnetcore.openapi.7.0.7.nupkg.sha512",
     "C:\\Users\\sxk2502\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\sxk2502\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
