@@ -10,3 +10,8 @@ C:\Users\sxk2502\source\repos\CodeWrinkles\CodeWrinklesSocial\CWKSocial.Applicat
 C:\Users\sxk2502\source\repos\CodeWrinkles\CodeWrinklesSocial\CWKSocial.Application\obj\Debug\net7.0\refint\CWKSocial.Application.dll
 C:\Users\sxk2502\source\repos\CodeWrinkles\CodeWrinklesSocial\CWKSocial.Application\obj\Debug\net7.0\CWKSocial.Application.pdb
 C:\Users\sxk2502\source\repos\CodeWrinkles\CodeWrinklesSocial\CWKSocial.Application\obj\Debug\net7.0\ref\CWKSocial.Application.dll
+C:\Users\sxk2502\source\repos\CodeWrinkles\CodeWrinklesSocial\CWKSocial.Application\bin\Debug\net7.0\CWKSocial.Dal.dll
+C:\Users\sxk2502\source\repos\CodeWrinkles\CodeWrinklesSocial\CWKSocial.Application\bin\Debug\net7.0\CWKSocial.Domain.dll
+C:\Users\sxk2502\source\repos\CodeWrinkles\CodeWrinklesSocial\CWKSocial.Application\bin\Debug\net7.0\CWKSocial.Domain.pdb
+C:\Users\sxk2502\source\repos\CodeWrinkles\CodeWrinklesSocial\CWKSocial.Application\bin\Debug\net7.0\CWKSocial.Dal.pdb
+C:\Users\sxk2502\source\repos\CodeWrinkles\CodeWrinklesSocial\CWKSocial.Application\obj\Debug\net7.0\CWKSocial.Application.csproj.CopyComplete

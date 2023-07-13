@@ -1,5 +1,4 @@
-﻿using CWKSocial.Domain.Models;
-using Microsoft.AspNetCore.Mvc;
+﻿ using Microsoft.AspNetCore.Mvc;
 
 namespace CodeWrinklesSocial.Api.Controllers.v2;
 [ApiVersion("2.0")]
@@ -11,7 +10,6 @@ public class PostsController : Controller
     [Route("{id}")]
     public IActionResult GetById(int id)
     {
-        var post = new Post { Id = id, Text = "Hello universe" };
-        return Ok(post);
+         return Ok();
     }
 }
