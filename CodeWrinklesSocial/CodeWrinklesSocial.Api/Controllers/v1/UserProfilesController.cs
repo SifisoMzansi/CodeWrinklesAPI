@@ -32,6 +32,7 @@ namespace CodeWrinklesSocial.Api.Controllers.v1
             return Ok(Profiles);
         }
 
+        [HttpPost]
         public async Task<IActionResult> CreateUserProfile([FromBody]UserProfileCreate profile)
         {
 
@@ -41,7 +42,7 @@ namespace CodeWrinklesSocial.Api.Controllers.v1
 
            return CreatedAtAction(nameof(GetUserProfileId), new { id = response.UserProfileId }, userProfile);
          }
-
+        [HttpGet]
         [Route(ApiRoutes.UserProfiles.IdRoute)]
         public async Task<IActionResult> GetUserProfileId(string id)
         {

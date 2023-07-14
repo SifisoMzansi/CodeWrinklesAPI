@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "dgSpecHash": "s3qc/ELe+hGGToujXvxSgUNItQcXsBuX0d71gb90bEWiqaJqqVjIDQwLumPBQVe5vD5IaqPOvli/M2O8E6NWbA==",
-  "success": false,
+  "dgSpecHash": "B73l+WnsnLXI/DmDFHYet1E0OYdSIefKrWPQperpxo93FpR/hkOfOC6jtTs8EjWLvPJF2MsIdGOeSUvVS36kaw==",
+  "success": true,
   "projectFilePath": "C:\\Users\\sxk2502\\source\\repos\\CodeWrinkles\\CodeWrinklesSocial\\CodeWrinklesSocial.Api\\CodeWrinklesSocial.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sxk2502\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
@@ -93,9 +93,10 @@
   ],
   "logs": [
     {
-      "code": "NU1107",
-      "level": "Error",
-      "message": "Version conflict detected for MediatR. Install/reference MediatR 12.1.1 directly to project CodeWrinklesSocial.Api to resolve this issue. \r\n CodeWrinklesSocial.Api -> CWKSocial.Application -> MediatR (>= 12.1.1) \r\n CodeWrinklesSocial.Api -> MediatR.Extensions.Microsoft.DependencyInjection 11.1.0 -> MediatR (>= 11.0.0 && < 12.0.0).",
+      "code": "NU1608",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Detected package version outside of dependency constraint: MediatR.Extensions.Microsoft.DependencyInjection 11.1.0 requires MediatR (>= 11.0.0 && < 12.0.0) but version MediatR 12.1.1 was resolved.",
       "libraryId": "MediatR",
       "targetGraphs": [
         "net7.0"
