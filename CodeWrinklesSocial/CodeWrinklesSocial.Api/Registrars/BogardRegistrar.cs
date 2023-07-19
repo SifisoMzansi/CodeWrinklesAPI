@@ -9,9 +9,9 @@ namespace CodeWrinklesSocial.Api.Registrars
         public void RegisterServices(WebApplicationBuilder builder)
         {
             builder.Services.AddAutoMapper(typeof(Program), typeof(GetAllUserProfiles));
-         //   builder.Services.AddMediatR(typeof(GetAllUserProfiles));
+           builder.Services.AddMediatR(typeof(GetAllUserProfiles));
 
-            builder.Services.AddMediatR(cfg => cfg.RegisterServicesFromAssemblies(Assembly.GetExecutingAssembly()));
+           // builder.Services.AddMediatR(cfg => cfg.RegisterServicesFromAssemblies(Assembly.GetExecutingAssembly()));
 
         }
     }

@@ -32,7 +32,8 @@ namespace CWKSocial.Domain.Aggregates.UserProfileAggregates
                 EmailAddress = emailAddress,
                 Phone = phone,
                 DateOfBirth=dateOfbirth, 
-                 CUrrentCity = currentCity
+                CUrrentCity = currentCity,
+                Description = "New User"
             };
         }
 
